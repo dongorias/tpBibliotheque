@@ -1,4 +1,7 @@
-import java.util.ArrayList;
+/**
+ * AGOKOLI DON ARIAS
+ * NDOUMBE DIEYE
+ * **/
 
 public class Bibliotheque {
     private int tailleTableau;

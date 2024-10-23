@@ -1,7 +1,18 @@
+/**
+ * AGOKOLI DON ARIAS
+ * NDOUMBE DIEYE
+ * **/
+
+
 import java.util.ArrayList;
 
 public class MainArrayList {
     public static void main(String[] args) {
+
+        System.out.println("/**\n" +
+                " * AGOKOLI DON ARIAS\n" +
+                " * NDOUMBE DIEYE\n" +
+                " * **/");
 
         // Instanciation des class Livre, Dvd et Revues
         Livre livre = new Livre("Victor Hugo", "Les Misérables", "Librairie Générale Française", "1862");

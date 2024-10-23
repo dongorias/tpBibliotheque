@@ -1,3 +1,8 @@
+/**
+ * AGOKOLI DON ARIAS
+ * NDOUMBE DIEYE
+ * **/
+
 public class Revues implements Document{
     private String numero;
     private String titre;

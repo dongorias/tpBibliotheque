@@ -1,3 +1,9 @@
+/**
+ * AGOKOLI DON ARIAS
+ * NDOUMBE DIEYE
+ * **/
+
+
 public class DVD implements  Document{
     private String titre;
     private int duree;

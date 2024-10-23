@@ -1,3 +1,8 @@
+/**
+ * AGOKOLI DON ARIAS
+ * NDOUMBE DIEYE
+ * **/
+
 import java.util.ArrayList;
 
 public class BibliothequeWithArrayList {
